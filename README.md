@@ -8,7 +8,7 @@
 - 🚀 Estou em transição de carreira. Atualmente, faço parte do Núcleo de Tecnologia do Colégio Nova Dimensão, atuando com gestão de mídias sociais e produção de conteúdos audiovisuais.
 
 #### Como entrar em contato comigo:
-- 📫 Como entrar em contato comigo: alan_fo@hotmail.com
+- 📫 alan_fo@hotmail.com
   
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/alanfernandeso)
 
