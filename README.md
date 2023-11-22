@@ -28,8 +28,4 @@
 ##
 
 #### Estatísticas:
-<div>
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanfernandeso&layout=compact&langs_count=7&theme=transparent"/>
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/?username=alanfernandeso&show_icons=true&include_all_commits=true&theme=transparent"/>
-<img loading="lazy" height="133em" src="http://github-readme-streak-stats.herokuapp.com/?user=alanfernandeso&amp;theme=transparent">
-</div>
+![Alan Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=alanfernandeso&show_icons=true&theme=dracula)
