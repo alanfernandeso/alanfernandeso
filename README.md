@@ -20,10 +20,12 @@
 [<img height="48px" width="48px" alt="Icone Spring" src="https://skillicons.dev/icons?i=spring"/>]()
 [<img height="48px" width="48px" alt="Icone Maven" src="https://skillicons.dev/icons?i=maven"/>](h)
 [<img height="48px" width="48px" alt="Icone Mysql" src="https://skillicons.dev/icons?i=mysql"/>]()
+[<img height="48px" width="48px" alt="Icone wordpress" src="https://skillicons.dev/icons?i=hibernate"/>](https://hibernate.org/)
 [<img height="48px" width="48px" alt="Icone Git" src="https://skillicons.dev/icons?i=git"/>]()
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>]()
 [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>]()
 [<img height="48px" width="48px" alt="Icone wordpress" src="https://skillicons.dev/icons?i=wordpress"/>]()
+
 
 ##
 
